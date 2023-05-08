@@ -1,7 +1,12 @@
+@font-face {
+    font-family: Gorizont;
+	src: url('../fonts/gorizont.otf');
+}
+
 body {
 	margin: 0;
-	font-family: 'ALS Gorizont 2.1';
-	
+	font-family: Gorizont,'ALS Gorizont 2.1', Arial, Helvetica, sans-serif;
+	font-weight: 400;
 }
 
 .vktimer {
